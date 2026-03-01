@@ -1,9 +1,10 @@
 # Technical Architecture
 
-This project follows the MERN stack architecture:
-- Frontend: React
-- Backend: Node.js with Express
-- Database: MongoDB
+The project follows MERN stack architecture:
 
-The frontend communicates with the backend using REST APIs.
-The backend handles business logic and database operations.
+- Frontend: React (UI for stock viewing and trading)
+- Backend: Node.js with Express (REST APIs)
+- Database: MongoDB (users, stocks, transactions)
+
+Frontend communicates with backend using REST APIs.
+Backend handles business logic and database operations.
