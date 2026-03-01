@@ -2,7 +2,8 @@
 ShopeZ – MERN Stack E-commerce Application (SmartBridge Group Project)
 
 ## Project Overview
-ShopeZ is a full-stack e-commerce web application developed using the MERN stack as part of the SmartBridge certification program.
+ShopeZ is a full-stack stock trading web application developed using the MERN stack as part of the SmartBridge certification program.  
+The platform allows users to view stock data, manage portfolios, and simulate trading operations.
 
 ## Tech Stack
 - MongoDB
@@ -12,14 +13,15 @@ ShopeZ is a full-stack e-commerce web application developed using the MERN stack
 
 ## Project Structure
 - client/ – Frontend (React)
-- server/ – Backend (Node.js, Express)
+- server/ – Backend (Node.js, Express, MongoDB)
 - docs/ – Documentation (architecture, ER diagram, user flow)
 
 ## Features (Planned)
-- User authentication
-- Product browsing
-- Shopping cart
-- Order management
+- User registration and login
+- View stock listings
+- Buy and sell stocks (simulation)
+- Portfolio management
+- Transaction history
 
 ## Project Status
-Initial setup and documentation completed. Development in progress.
+Initial setup and documentation in progress.
