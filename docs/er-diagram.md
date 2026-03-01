@@ -1,10 +1,12 @@
 # ER Diagram
 
-Entities in the system:
+Entities:
 - User
-- Product
-- Order
+- Stock
+- Transaction
+- Portfolio
 
 Relationships:
-- A user can place multiple orders
-- An order can contain multiple products
+- A user has one portfolio
+- A portfolio contains multiple stocks
+- A user can perform multiple transactions
