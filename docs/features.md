@@ -1,7 +1,7 @@
 # Features
 
-- User registration and login
-- Product listing and search
-- Add to cart
-- Place orders
-- Admin product management
+- User authentication
+- View available stocks
+- Buy and sell stocks (simulated trading)
+- Portfolio tracking
+- Transaction history
