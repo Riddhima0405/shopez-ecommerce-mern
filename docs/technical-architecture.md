@@ -1,10 +1,23 @@
-# Technical Architecture
+# Technical Architecture – ShopEZ (MERN)
 
-The project follows MERN stack architecture:
+## Frontend
+- React.js  
+- Handles UI like Login, Products, Cart, Orders, Admin Dashboard  
+- Communicates with backend using REST APIs (Axios)  
 
-- Frontend: React (UI for stock viewing and trading)
-- Backend: Node.js with Express (REST APIs)
-- Database: MongoDB (users, stocks, transactions)
+## Backend
+- Node.js + Express.js  
+- Handles authentication, products, cart, orders  
+- Exposes REST APIs  
 
-Frontend communicates with backend using REST APIs.
-Backend handles business logic and database operations.
+## Database
+- MongoDB  
+- Mongoose for schema modeling  
+- Stores Users, Products, Cart, Orders  
+
+## Flow
+React (Frontend)
+      ↓ API calls
+Express + Node (Backend)
+      ↓
+MongoDB (Database)
