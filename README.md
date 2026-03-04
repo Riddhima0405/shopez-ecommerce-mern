@@ -4,6 +4,9 @@
 ShopEZ is a full-stack e-commerce web application designed to provide a seamless and secure online shopping experience. The platform allows users to browse products, add items to their cart, and place orders efficiently while ensuring data security and smooth performance.
 
 ---
+## Drive Link For Demo
+https://drive.google.com/drive/folders/1VKiZ9Y-lwVnbFU_yMowzHvdexDSOPLF7?usp=sharing 
+Note: UI updated after demo video; screenshots reflect earlier version.
 
 ## 🚀 Project Overview
 
